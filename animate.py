@@ -19,7 +19,7 @@ third =  [1.5, -1.8, 1.6, 0.9]
 fourth = [-1.8, -2.0, -0.5, -0.9]
 
 #all_sets = [first, second, third, fourth]
-#all_sets = [first, third]
+all_sets = [first, third]
 
 FRAMES = 100
 
